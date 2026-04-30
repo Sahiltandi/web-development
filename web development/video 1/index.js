@@ -1,0 +1,1 @@
+alert("welcome to MY first website");
